@@ -1,0 +1,29 @@
+.weather-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+.weather-app{
+    border: 2px solid black;
+    width: 500px;
+    height: 500px;
+    background-color: lightseagreen;
+
+}
+
+.input-boxes{
+    width: 60%;
+    margin: 0 auto;
+    gap: 20px;
+    margin-top: 20px;
+    
+}
+.input-boxes input{
+    margin: 10px;
+    padding: 5px;
+}
+*{
+    /* border: 2px solid magenta; */
+}
